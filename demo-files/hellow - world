@@ -10,4 +10,4 @@ runs on : ubuntu - latest
   steps
 - name : check out repository code
 usus : sctions / checkout@v3
-- run : echo "$(cat hellow - world. txt)"
+- run : echo "$(cat hellow_world. txt)"
